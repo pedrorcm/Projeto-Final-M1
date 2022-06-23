@@ -64,23 +64,27 @@ def deseja_acompanhamentos():
 
 #Lista e escolha de acompanhamentos
 def acompanhamentos():
-  lista_acompanhamentos = ['0- Leite Condensado','1- Granola','2- Morango','3- Banana','4- Amendoim','5- Paçoca','6- Leite em pó','7- Kiwi','8- Calda de maracujá','9- Calda de morango','10- Calda de chocolate','11- Sair']
+    lista_acompanhamentos = ['0- Leite Condensado','1- Granola','2- Morango','3- Banana','4- Amendoim','5- Paçoca','6- Leite em pó','7- Kiwi','8- Calda de maracujá','9- Calda de morango','10- Calda de chocolate','11- Sair']
 
-  escolhidos = []
+    escolhidos = []
 
-  for i in lista_acompanhamentos:
-    print(i)
+    for i in lista_acompanhamentos:
+        print(i)
   
-  escolha_acompanhamentos = esc_acompanhamentos()
-
-  while (escolha_acompanhamentos != 12):
-    escolhidos.append(lista_acompanhamentos[escolha_acompanhamentos][2:])
     escolha_acompanhamentos = esc_acompanhamentos()
 
+    while escolha_acompanhamentos>11:
+        print('Escolha uma opção válida')
+        escolha_acompanhamentos = esc_acompanhamentos()
 
-  valor_acomp = len(escolhidos) * 0.5
+    while (escolha_acompanhamentos != 11):
+        escolhidos.append(lista_acompanhamentos[escolha_acompanhamentos][2:])
+        escolha_acompanhamentos = esc_acompanhamentos()
+
+
+    valor_acomp = len(escolhidos) * 0.5
   
-  return escolhidos, valor_acomp
+    return escolhidos, valor_acomp
 
 
 #Validação de escolha de acompanhamentos
