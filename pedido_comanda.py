@@ -4,7 +4,7 @@ def comanda(tama, preco, sabor_base, escolhidos, valor_escolhidos):
     seu_pedido = []
     conta = []
 
-    seu_pedido.append(f'Seu pedido é um {sabor_base} de {tama} Ele acompanha:{",".join([ac for ac in escolhidos])}')
+    seu_pedido.append(f'Seu pedido é um {sabor_base} de {tama} Ele acompanha:{"".join([ac for ac in escolhidos])}')
     conta.append(preco + valor_escolhidos)
 
     return seu_pedido, conta
@@ -23,7 +23,7 @@ def pedido():
 
 #Confirmar ou cancelar o pedido.
 def confirmacao_pedido(seu_pedido, conta):
-    conf = int(input('\n1. Confirmar o pedido\n2.Cancelar o pedido\n>> '))
+    conf = int(input('\n1. Confirmar o pedido\n2. Cancelar o pedido\n>> '))
 
     if conf == 1:
         print(f'{seu_pedido[0]}. O custo total é de {conta[0]}')
