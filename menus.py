@@ -54,7 +54,6 @@ Digite o número referente à sua dúvida
 
 
 #Função de menu principal
-
 def chamar_menu():
 
   caminho = int(input('''
