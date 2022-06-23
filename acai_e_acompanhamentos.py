@@ -40,10 +40,9 @@ def escolhe_sabor():
 
     escolha = int(input('>> '))
     
-    ###
     if (escolha < 1) or (escolha > 5):
         sabores = escolhe_sabor()
-    ###
+    
     return sabores[escolha][2:]
 
 
@@ -53,8 +52,10 @@ def deseja_acompanhamentos():
 
     if acompanhas == 'S' or acompanhas == 'SIM':
         escolhidos, valor_escolhidos = acompanhamentos()
+
     elif acompanhas == 'N' or acompanhas == 'NAO' or acompanhas == 'NÃO':
-        escolhidos, valor_escolhidos = ' nada', 0
+        escolhidos, valor_escolhidos = [' nada'], 0
+
     else:
         print('Digite uma opção válida')
         escolhidos, valor_escolhidos = deseja_acompanhamentos()
