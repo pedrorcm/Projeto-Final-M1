@@ -1,6 +1,5 @@
 from acai_e_acompanhamentos import deseja_acompanhamentos, escolhe_sabor, tamanho
 
-
 def comanda(tama, preco, sabor_base, escolhidos, valor_escolhidos):
     seu_pedido = []
     conta = []
