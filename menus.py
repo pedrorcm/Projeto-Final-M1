@@ -48,7 +48,6 @@ Digite o número referente à sua dúvida
     else:
         print("\nDigite uma opção válida.")
    
-    
     sleep(1.5)
     informacoes()
 
@@ -75,7 +74,6 @@ Nossos açaís custam de acordo com seu tamanho!
 Cada acompanhamento custa R$0.50!
 Saboreie já o seu!''')
     sleep(2)
- 
 
   elif caminho == 2:
     sleep(.5)
@@ -84,11 +82,9 @@ Saboreie já o seu!''')
 
     confirmacao_pedido(seu_pedido, conta)
 
-
   elif caminho == 3:
-    print('\nSeu pedido está há %.2fkm' % (random()*10))
+    print('\nSeu pedido está a %.2fkm' % (random()*10))
     sleep(1)
- 
 
   elif caminho == 4:
     informacoes()
