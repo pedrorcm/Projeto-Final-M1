@@ -1,10 +1,11 @@
 from acai_e_acompanhamentos import deseja_acompanhamentos, escolhe_sabor, tamanho
 
+#Retorna o pedido e o valor total deste.
 def comanda(tama, preco, sabor_base, escolhidos, valor_escolhidos):
     seu_pedido = []
     conta = []
 
-    seu_pedido.append(f'Seu pedido é um {sabor_base} de {tama} Ele acompanha:{"".join([ac for ac in escolhidos])}')
+    seu_pedido.append(f'Seu pedido é um {sabor_base} de {tama} Ele acompanha:{",".join([ac for ac in escolhidos])}')
     conta.append(preco + valor_escolhidos)
 
     return seu_pedido, conta
