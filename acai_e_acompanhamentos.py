@@ -69,8 +69,7 @@ def acompanhamentos():
 
     escolhidos = []
 
-    for i in lista_acompanhamentos:
-        print(i)
+    tuas_opcoes(lista_acompanhamentos)
   
     escolha_acompanhamentos = esc_acompanhamentos()
 
