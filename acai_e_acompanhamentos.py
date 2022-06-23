@@ -92,4 +92,3 @@ def esc_acompanhamentos():
     escolha_acompanhamentos = esc_acompanhamentos()
   
   return escolha_acompanhamentos
-
