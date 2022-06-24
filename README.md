@@ -1,13 +1,13 @@
 <h1 align="center"> # Projeto-Final-M1 </h1>
 
-#**Projeto do final do primeiro módulo da Resilia**
+#<p align=**Projeto do final do primeiro módulo da Resilia**</p>
 
-## ![PROJETO FALA COMIGO!]
+## !PROJETO FALA COMIGO!
 
-## ![AÇAÍ DA RESI]
+## AÇAÍ DA RESI
 
 
-[<img src="https://user-images.githubusercontent.com/77132612/175435665-03e3f123-d7e6-453a-9958-3de65e601a5a.png" width=300><br>]
+[<img src="https://user-images.githubusercontent.com/77132612/175435665-03e3f123-d7e6-453a-9958-3de65e601a5a.png" width=600><br>]
 
 * [Descrição do Projeto]
 * ### **Projeto ‘FALE COMIGO!’**:
