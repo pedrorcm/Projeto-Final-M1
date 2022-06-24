@@ -1,13 +1,17 @@
-# Projeto-Final-M1 RESILIA 
+# <p align="center">Projeto-Final-M1 RESILIA
+</p>
 
 
-## !PROJETO FALA COMIGO!
+
+## <p align="center">!PROJETO FALA COMIGO!
+</p>
 
 ## <p align="center">AÇAÍ DA RESI/>
 </p>
 
 
-[                             <img src="https://user-images.githubusercontent.com/77132612/175435665-03e3f123-d7e6-453a-9958-3de65e601a5a.png" width=600><br>]
+<p align="center">[<img src="https://user-images.githubusercontent.com/77132612/175435665-03e3f123-d7e6-453a-9958-3de65e601a5a.png" width=600><br>]
+</p>
 
 * [Descrição do Projeto]
 * ### **Projeto ‘FALE COMIGO!’**:
@@ -53,14 +57,14 @@
 | [<img src="https://media-exp2.licdn.com/dms/image/C4D03AQEwckSJvmCKaA/profile-displayphoto-shrink_800_800/0/1655408004857?e=1661385600&v=beta&t=dygBW4krehvAut3CsqCX-hS6Mzx0AiJjV0W1TnyND7s" width=115><br><sub>Stephanie Fernandes</sub>](https://github.com/stefernandes23) |
 
 
-| [<img src="https://media-exp2.licdn.com/dms/image/D4D35AQGISl8lyuc75w/profile-framedphoto-shrink_800_800/0/1646765489763?e=1656637200&v=beta&t=K42HozCAAgYOkgyrQa6c2Gd602bv6FwnZxw2UwZrwvg" width=115><br><sub>Iago Ferreira</sub>](https://github.com/Iagw18) |
+| [<img src="https://i.ibb.co/WycN2Jz/IAGO.jgp" width=115><br><sub>Iago Ferreira</sub>](https://github.com/Iagw18) |
 
 
 | [<img src="https://i.ibb.co/SXTb4MH/pedro.jpg" width=115><br><sub>Pedro Rocha</sub>](https://github.com/pedrorcm) |
 
 
 
-| [<img src="https://ibb.co/b53sZ7n" width=115><br><sub>Ives Viana</sub>](https://github.com/IvesFragoso) | 
+| [<img src="https://i.ibb.co/Wv3kws1/ives.jpg" width=115><br><sub>Ives Viana</sub>](https://github.com/IvesFragoso) | 
 
 
 **:-------------------:**
