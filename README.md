@@ -52,16 +52,22 @@
 
 <p align="center">**:-----------------------------------------------------------:**
 </p>
-<p align="center"> [<img src="https://media-exp2.licdn.com/dms/image/C4D03AQEwckSJvmCKaA/profile-displayphoto-shrink_800_800/0/1655408004857?e=1661385600&v=beta&t=dygBW4krehvAut3CsqCX-hS6Mzx0AiJjV0W1TnyND7s" width=150><br><sub>Stephanie Fernandes</sub>](https://github.com/stefernandes23)
+<p align="center"> <img src="https://media-exp2.licdn.com/dms/image/C4D03AQEwckSJvmCKaA/profile-displayphoto-shrink_800_800/0/1655408004857?e=1661385600&v=beta&t=dygBW4krehvAut3CsqCX-hS6Mzx0AiJjV0W1TnyND7s" width=150><br><sub>Stephanie Fernandes</sub>
+ 
+(https://github.com/stefernandes23)
 </p>
 
-<p align="center"> [<img src="https://i.ibb.co/VSv0q4C/IAGO.jpg" width=150><br><sub>Iago Ferreira</sub>](https://github.com/Iagw18) |
+<p align="center"> <img src="https://i.ibb.co/VSv0q4C/IAGO.jpg" width=150><br><sub>Iago Ferreira</sub>
+ 
+(https://github.com/Iagw18) 
 </p>
 
-<p align="center"> [<img src="https://i.ibb.co/SXTb4MH/pedro.jpg" width=150><br><sub>Pedro Rocha</sub>](https://github.com/pedrorcm) |
+<p align="center"> [<img src="https://i.ibb.co/SXTb4MH/pedro.jpg" width=150><br><sub>Pedro Rocha</sub>
+ 
+(https://github.com/pedrorcm) 
 </p>
 
-<p align="center"> [<img src="https://i.ibb.co/Wv3kws1/ives.jpg" width=150><br><sub>Ives Viana</sub>](https://github.com/IvesFragoso) | 
+<p align="center"> <img src="https://i.ibb.co/Wv3kws1/ives.jpg" width=150><br><sub>Ives Viana</sub>(https://github.com/IvesFragoso) | 
 </p>
 
 <p align="center">**:-----------------------------------------------------------:**
