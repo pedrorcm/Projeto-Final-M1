@@ -1,10 +1,10 @@
-                                                # Projeto-Final-M1 
+# Projeto-Final-M1 RESILIA 
 
-#                              **Projeto do final do primeiro módulo da Resilia**
 
-##                                            !PROJETO FALA COMIGO!
+## !PROJETO FALA COMIGO!
 
-##                                                AÇAÍ DA RESI
+## <p align="center">AÇAÍ DA RESI/>
+</p>
 
 
 [                             <img src="https://user-images.githubusercontent.com/77132612/175435665-03e3f123-d7e6-453a-9958-3de65e601a5a.png" width=600><br>]
@@ -56,7 +56,7 @@
 | [<img src="https://media-exp2.licdn.com/dms/image/D4D35AQGISl8lyuc75w/profile-framedphoto-shrink_800_800/0/1646765489763?e=1656637200&v=beta&t=K42HozCAAgYOkgyrQa6c2Gd602bv6FwnZxw2UwZrwvg" width=115><br><sub>Iago Ferreira</sub>](https://github.com/Iagw18) |
 
 
-| [<img src="https://ibb.co/HDv6fbR" width=115><br><sub>Pedro Rocha</sub>](https://github.com/pedrorcm) |
+| [<img src="https://i.ibb.co/SXTb4MH/pedro.jpg" width=115><br><sub>Pedro Rocha</sub>](https://github.com/pedrorcm) |
 
 
 
