@@ -54,5 +54,5 @@ Projeto do final do primeiro módulo da Resilia
 
 [<img src="https://avatars.githubusercontent.com/u/8989346?v=4](https://media-exp2.licdn.com/dms/image/D4D35AQF1BdP5yJe40A/profile-framedphoto-shrink_800_800/0/1647980540645?e=1656637200&v=beta&t=D9yrmpyy_EF-XKAjKeSJWjoyb7mE8HvyAIA6tW4DIts" width=115><br><sub>Pedro Rocha</sub>](https://github.com/pedrorcm) |
 
-[<img src="[https://avatars.githubusercontent.com/u/37356058?v=4](https://media-exp2.licdn.com/dms/image/D4D35AQGISl8lyuc75w/profile-framedphoto-shrink_800_800/0/1646765489763?e=1656637200&v=beta&t=K42HozCAAgYOkgyrQa6c2Gd602bv6FwnZxw2UwZrwvg)" width=115><br><sub>Ives Viana</sub>](https://github.com/IvesFragoso)
+[<img src="https://avatars.githubusercontent.com/u/37356058?v=4](https://media-exp2.licdn.com/dms/image/D4D35AQGISl8lyuc75w/profile-framedphoto-shrink_800_800/0/1646765489763?e=1656637200&v=beta&t=K42HozCAAgYOkgyrQa6c2Gd602bv6FwnZxw2UwZrwvg)](https://media-exp2.licdn.com/dms/image/D4D35AQGISl8lyuc75w/profile-framedphoto-shrink_800_800/0/1646765489763?e=1656637200&v=beta&t=K42HozCAAgYOkgyrQa6c2Gd602bv6FwnZxw2UwZrwvg" width=115><br><sub>Ives Viana</sub>](https://github.com/IvesFragoso)
 | :------------------------:
